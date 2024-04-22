@@ -3,7 +3,7 @@
   "description": "Reproduces: https://github.com/thlorenz/browserify-shim/issues/30",
   "version": "0.0.1",
   "dependencies": {
-    "browserify-shim": "~3.2.2"
+    "browserify-shim": "~3.8.16"
   },
   "scripts": {
     "start": "browserify main.js -d > out.js && open index.html",
